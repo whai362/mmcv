@@ -1,4 +1,4 @@
-The project is modified from mmcv 0.5.9. we fixed the bug in syncbn.
+The project is modified from mmcv 0.5.9. We fixed the bug in syncbn.
 
 MMCV
 ====
